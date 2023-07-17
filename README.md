@@ -12,7 +12,7 @@
 <a href="https://twitter.com/jayasuryatweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayasuryatweet" height="30" width="40" /></a>
 <a href="https://fb.com/oksurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oksurya" height="30" width="40" /></a>
 <a href="https://instagram.com/jayasurya_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayasurya_ig" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jsurya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jsurya" height="30" width="40" /></a>
   <a href="https://timesofindia.indiatimes.com/readersblog/tamilradar/" target="blank"><img align="center" src="https://brandeps.com/logo-download/T/Times-of-India-logo-vector-01.svg" alt="tamilradar" height="30" width="40" /></a>
 
 </p>
